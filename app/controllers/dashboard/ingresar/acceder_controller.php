@@ -1,5 +1,5 @@
 <?php
-require_once("../../app/models/usuario.class.php"); //Llamando al modelo
+require_once("../../app/models/usuario.class.php"); //Llamando al modelo de usuario
 try {
     $usuarios = new Usuario;
     if ($usuarios->getUsuarios()) {

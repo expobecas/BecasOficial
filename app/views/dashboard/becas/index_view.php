@@ -11,8 +11,6 @@
 <div class="col offset-l10">
       <a class="waves-effect waves-light btn s-general sg3" href="agregar.php">Agregar</a>
    </div>
-   <div class="col">
-   </div>
 </div>
 <!--TABLA SOLICITUDES GENERALES-->
 
